@@ -1,4 +1,7 @@
 # さんみさ結婚式
 
-## aaa
-<img src="san.jpeg">
+## the day
+2022/6/18 Sat.
+San & Misa 
+
+
