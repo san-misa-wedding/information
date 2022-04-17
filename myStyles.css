@@ -6,7 +6,7 @@ body {
     background-color: #fff8dc;
 }
 
-.jumplink {
+.visible-xs .visible-sm .jumplink {
     display: none !important;
 }
 
