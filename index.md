@@ -21,6 +21,6 @@ San & Misa
 
 長野県安曇野市長野県北佐久郡軽井沢町永倉2144 星野リゾート　軽井沢ホテルブレストンコート
 電話：0267-46-6200
-https://www.blestoncourt.com/wedding/
+<a href="https://www.blestoncourt.com/wedding/" target="_blank">https://www.blestoncourt.com/wedding/</a>
 
 
