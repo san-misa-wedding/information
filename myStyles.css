@@ -48,13 +48,13 @@ strong {
     background-color: #333631;
 }
 
-/**
+
 .page-header {
     padding-bottom: 0px;
     border-bottom: 1px solid #909090;
     margin: 30px 0 0px;
 }
-
+/**
 .navbar-toggle {
     display: none !important;
 }
