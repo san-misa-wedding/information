@@ -82,4 +82,4 @@ TEL [0267-46-6200](tel:0267-46-6200)
 <img src="hosinoarea_map.png">
 
 その他ご不明点は下のリンクをご参照ください。
-<a href="https://www.blestoncourt.com/wedding/guest/" target="_blank">https://www.blestoncourt.com/wedding/guest/</a>
+[https://www.blestoncourt.com/wedding/guest/](https://www.blestoncourt.com/wedding/guest/){:target="_blank"}
