@@ -47,3 +47,8 @@ strong {
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #333631;
 }
+
+.page-header {
+    padding-bottom: 9px;
+    border-bottom: 1px solid #eee;
+}
