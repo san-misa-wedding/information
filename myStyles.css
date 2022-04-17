@@ -33,9 +33,9 @@ strong {
 }
 
 .navbar-header {
-    background-color: #000000;
+    background-color: #deb887;
 }
 
-.navbar-brand {
+.navbar-default .navbar-brand {
     color: #ffffff;
 }
