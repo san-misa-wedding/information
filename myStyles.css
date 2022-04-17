@@ -6,6 +6,10 @@ body {
     background-color: #fff8dc;
 }
 
+.jumplink {
+    display: none !important;
+}
+
 h2.md-inpage-anchor {
     border-left: 15px solid #946243;
     border-bottom: 1px solid #946243;
