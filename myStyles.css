@@ -7,20 +7,20 @@ body {
 }
 
 h2.md-inpage-anchor {
-    border-left: 15px solid #909090;
-    border-bottom: 1px solid #909090;
+    border-left: 15px solid #946243;
+    border-bottom: 1px solid #946243;
     padding-left: 10px;
 }
 
 h3.md-inpage-anchor {
-    border-left: 10px solid #909090;
+    border-left: 10px solid #946243;
     padding-left: 5px;
-    border-bottom: 1px solid #909090;
+    border-bottom: 1px solid #946243;
 }
 
 h4.md-inpage-anchor {
-    border-bottom: 1px solid #909090;
-    border-bottom: 1px solid #909090;
+    border-bottom: 1px solid #946243;
+    border-bottom: 1px solid #946243;
 }
 
 th {
@@ -51,7 +51,7 @@ strong {
 
 .page-header {
     padding-bottom: 0px;
-    border-bottom: 1px solid #909090;
+    border-bottom: 1px solid #946243;
     margin: 30px 0 0px;
 }
 /**
