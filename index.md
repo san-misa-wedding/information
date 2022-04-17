@@ -1,7 +1,9 @@
 ### the day
 
 2022/6/18 Sat.
-San & Misa 
+San & Misa
+
+<img src="timeline.png">
 
 ### 挙式：石の教会
 
