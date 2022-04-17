@@ -7,9 +7,11 @@ h2.md-inpage-anchor {
 h3.md-inpage-anchor {
     border-left: 10px solid #909090;
     padding-left: 5px;
+    border-bottom: 1px solid #909090;
 }
 
 h4.md-inpage-anchor {
+    border-bottom: 1px solid #909090;
     border-bottom: 1px solid #909090;
 }
 
@@ -18,5 +20,5 @@ th {
 }
 
 strong {
-    color: #FF0000;
+    color: #428bca;
 }
