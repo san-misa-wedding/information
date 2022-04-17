@@ -37,5 +37,13 @@ strong {
 }
 
 .navbar-default .navbar-brand {
-    color: #ffffff;
+    color: #333631;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #333631;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #333631;
 }
