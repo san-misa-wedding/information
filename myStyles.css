@@ -1,3 +1,11 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #814721;
+    background-color: #fff8dc;
+}
+
 h2.md-inpage-anchor {
     border-left: 15px solid #909090;
     border-bottom: 1px solid #909090;
@@ -20,5 +28,6 @@ th {
 }
 
 strong {
-    color: #428bca;
+    color: #c09853;
+    font-size: 16px;
 }
