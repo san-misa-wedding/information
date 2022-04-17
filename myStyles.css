@@ -52,3 +52,7 @@ strong {
     padding-bottom: 9px;
     border-bottom: 1px solid #eee;
 }
+
+.navbar-toggle {
+    display: none !important;
+}
