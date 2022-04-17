@@ -1,6 +1,6 @@
 # さんみさ結婚式
 
-[ご案内トップ](information.md)
+[ご案内](information.md)
 [集合時間・場所](information.md#集合時間・場所)
 [美容・着付けについて](information.md#美容・着付けについて)
 [更衣室](information.md#更衣室)
