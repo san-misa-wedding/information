@@ -66,3 +66,7 @@ strong {
 #md-body {
     margin-top: 60px !important;
 }
+
+img {
+    max-width: 500px !important;
+}
