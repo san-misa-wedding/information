@@ -1,7 +1,6 @@
 ### The Big Day
 
-<span style="font-size:18px">
-2022/6/18 Sat.
+<span style="font-size:18px">2022/6/18 Sat.
 San & Misa
 </span>
 
