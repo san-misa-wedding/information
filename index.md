@@ -4,7 +4,7 @@
 San & Misa
 </span>
 
-<img src="sanmisa.png">
+<img src="sanmisa.jpeg">
 
 ### 挙式：石の教会
 
